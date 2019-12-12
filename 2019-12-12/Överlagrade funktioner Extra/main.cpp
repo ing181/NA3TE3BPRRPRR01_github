@@ -13,7 +13,7 @@ int main() {
 	
 	cout << test(7) << endl;
 	cout << test(7,3) << endl;
-	cout << test(73,1) << endl;
+	cout << test(7,3,1) << endl;
 
 	return 0;
 }
