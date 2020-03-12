@@ -9,7 +9,6 @@
 
 int main() {
 	
-	
 	      Point *p;  /* En variabel p som kan innehålla adressen till en Point */
 
           /* Allokera minnesutrymme för en Point */
